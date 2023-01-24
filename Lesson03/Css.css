@@ -1,0 +1,55 @@
+body{
+    background-color: #1e1e1e;
+    
+}
+h1,h2,h3{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    color: #E74C7D;
+}
+p,a{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+p{
+    color: white;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #E74C7D;
+}
+header{
+    text-align: center;
+    box-shadow: #E74C7D;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #292929;
+    background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+    margin: 10px;
+}
+div{
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+.oneSide{
+    background-color: #292929;
+    box-shadow: #E74C7D;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin: 10px;
+    padding: 10px;
+}
+footer{
+    clear: both;
+}
+#bye{
+    text-align: center;
+    box-shadow: #E74C7D;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #292929;
+    background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+    margin: 10px;
+}
